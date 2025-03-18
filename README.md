@@ -17,4 +17,4 @@ It showcases my skills, projects, experience, and contact details, providing a s
 
 
 
-![image alt](https://github.com/PallaviShirsath23/MyPortfolioUsingReact/blob/d301474860f4f007c277aeaebf02f205c5123a69/Screenshot%202025-03-14%20142903.png)
+![image alt](https://github.com/PallaviShirsath23/MyPortfolioUsingReact/blob/32d5ce6965d667c3c1a5883cae15998395e0b401/Screenshot%202025-03-18%20232819.png)
