@@ -1,5 +1,4 @@
-# 💼 My Portfolio Using React.js  
-# 🚀 Overview  
+# 💼 My Portfolio Using React.js    
 This is a *fully responsive* and *modern portfolio website* built with *React.js*.  
 It showcases my skills, projects, experience, and contact details, providing a smooth *user experience* with interactive UI components.  
 
@@ -8,11 +7,14 @@ It showcases my skills, projects, experience, and contact details, providing a s
 🎨 *Clean UI/UX:* Simple, modern, and interactive.  
 ⚡ *Performance Optimized:* Lazy loading, efficient rendering.  
 🚀 *Deployed Live:* Easily accessible online.  
+ 
+#🛠️ Tech Stack  
+
+- *Frontend:* HTML, CSS, JavaScript, React.js  
+- *Styling:* CSS (or Tailwind CSS if used)  
+- *State Management:* React Hooks (useState, useEffect)  
+- *Routing:* React Router  
 
 
-# 🛠️ Tech Stack  
 
-- *Frontend:* React.js, Tailwind CSS  
-- *Deployment:* Vercel / Netlify  
-- *Other:* React Router, Context API  
-
+![image alt](https://github.com/PallaviShirsath23/MyPortfolioUsingReact/blob/d301474860f4f007c277aeaebf02f205c5123a69/Screenshot%202025-03-14%20142903.png)
